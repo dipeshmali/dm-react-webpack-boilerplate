@@ -1,0 +1,6 @@
+{
+    "presets" : ["env","react"],
+    "plugins": [
+        "babel-plugin-transform-class-properties" // to allow es6 function to run
+     ]
+}
