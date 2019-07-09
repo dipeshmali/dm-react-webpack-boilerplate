@@ -14,6 +14,7 @@ class App extends Component {
             <div>
                 {/* <h1>Welcome to webpack</h1> */}
                 {/* <Test/> */}
+				{/* <Test/> */}
                 <Header/>
                 <Switch>
                     <Route exact path="/" component = {Home}/>
