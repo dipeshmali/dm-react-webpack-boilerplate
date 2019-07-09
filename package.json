@@ -1,6 +1,6 @@
 {
   "name": "dm-webpack-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "setup react project with webpack",
   "main": "index.js",
   "scripts": {
